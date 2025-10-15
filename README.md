@@ -5,7 +5,7 @@
 ### Part 1: Fine-Tuning of EfficientNet on Facial Expressions for Emotion Recognition 🎯
 
 EfficientNet model is fine-tuned on facial expressions to detect 6 of the basic emotions <br>
-(i.e. **anger 😡, disgust 🤮 , fear😖, happiness😁, sadness😭, surprise😮** according to [Ekman and Friesen](http://www.communicationcache.com/uploads/1/0/8/8/10887248/constants_across_cultures_in_the_face_and_emotion.pdf)).
+(i.e. **anger 😡, disgust 🤮 , fear😖, happiness😁, sadness😭, surprise😮** according to (http://www.communicationcache.com/uploads/1/0/8/8/10887248/constants_across_cultures_in_the_face_and_emotion.pdf)).
 
 The **CK+48** dataset has been used (for both training and testing), and the model achieved <br>
 *97.84%* validation accuracy, and *96.43%* accuracy on a test set that it had not seen during the training phase again.
