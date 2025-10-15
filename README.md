@@ -25,7 +25,3 @@ and with a few examples (927 samples in total for training, validation and testi
 <img src="https://github.com/skanelo/Deep-Emotion-Recognition/blob/main/results/learning_curves.png" width="850" height="360"> 
 
 A more comprehensive analysis of my approach as well as a step-by-step guide is presented at my **<pending_hyperlink_for_the_article>** on Towards Data Science.
-
-### Part 2: Application of GradCam, a visualization technique, which assists to the interepretability of the model 🔍
-
-### Part 3: ...pending
